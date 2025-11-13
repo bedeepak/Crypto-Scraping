@@ -9,7 +9,7 @@ It displays the data in the terminal and stores it in a structured CSV file for 
 ### ⚙️ Features
 - **Live Data Scraping** – Collects real-time crypto prices and market data.  
 - **Dynamic Page Handling** – Uses Selenium WebDriver to handle JavaScript-rendered pages.  
-- **Top N Coins Extraction** – Retrieves coin name, price, 24h change, and market cap.  
+- **Top 10 Coins Extraction** – Retrieves coin name, price, 24h change, and market cap.  
 - **CSV Export** – Saves updated data into a clean CSV file for analysis or dashboard use.  
 - **Headless Mode** – Runs silently in the background without opening a browser window.  
 - **Timestamp Logging** – Records data with timestamps to track changes over time.  
@@ -26,4 +26,5 @@ It displays the data in the terminal and stores it in a structured CSV file for 
 | **Google Chrome** | Browser used for data rendering and scraping |
 
 ---
+
 
